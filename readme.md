@@ -1,5 +1,11 @@
 # Whiteboard Cleaning Robot Control System
 
+---
+
+![alt text](White Board Cleaning Robot.png)
+
+---
+
 This project is a comprehensive control system for a whiteboard cleaning robot that uses computer vision to detect handwritten content on a whiteboard and autonomously erase it. The system includes a GUI for monitoring and controlling the robot, Bluetooth connectivity for communication, and object detection using YOLOv8.
 
 ## Features
