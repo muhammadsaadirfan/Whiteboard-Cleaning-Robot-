@@ -1,4 +1,4 @@
-# Whiteboard Cleaning Robot Control System
+# Whiteboard Cleaning Robot
 
 ---
 
