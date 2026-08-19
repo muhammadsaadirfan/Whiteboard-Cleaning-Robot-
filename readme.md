@@ -2,7 +2,7 @@
 
 ---
 
-!(White_Board_Cleaning_Robot.png)
+![Whiteboard Cleaning Robot](../White%20Board%20Cleaning%20Robot.png)
 
 ---
 
