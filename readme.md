@@ -2,7 +2,7 @@
 
 ---
 
-![Whiteboard Cleaning Robot](../White%20Board%20Cleaning%20Robot.png)
+![Whiteboard Cleaning Robot](../White Board Cleaning Robot.png)
 
 ---
 
