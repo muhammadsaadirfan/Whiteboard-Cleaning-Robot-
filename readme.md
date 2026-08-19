@@ -2,7 +2,7 @@
 
 ---
 
-![alt text](White Board Cleaning Robot.png)
+![Whiteboard Cleaning Robot](White_Board_Cleaning_Robot.png)
 
 ---
 
